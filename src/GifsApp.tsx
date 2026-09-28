@@ -8,7 +8,7 @@ import { SearchBar } from './shared/components/SearchBar';
 
 export const GifsApp = () => {
   const [gifs, setGifs] = useState<Gif[]>([]);
-  const [previousTerms, setPreviousTerms] = useState<string>([]);
+  const [previousTerms, setPreviousTerms] = useState<string[]>([]);
 
   const handleTermClicked = (term: string) => {
     console.log(term);
