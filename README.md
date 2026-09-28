@@ -24,7 +24,7 @@ La interfaz fue construida utilizando **CSS**, incluyendo media queries para ada
 
 ## 🚀 Demo
 
-👉 Pendiente de publicación.
+👉 https://gifs-app-aldosz94.netlify.app/
 
 ---
 
